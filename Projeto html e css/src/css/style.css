@@ -6,43 +6,6 @@
 }
 
 
-*{
-    margin: 0;
-    padding: 0;
-}
-html{
-    font-size: 62.5%;
-}
-body{
-    font-family: 'Open Sans',sans-serif;
-    font-size: 2rem;
-  
-}
-h1, h2, h3,h4, h5, h6{
-    font-family: 'Montserrat',sans-serif;
-}
-h1{
-    font-size: 6rem;
-    text-transform: uppercase;
-}
-h2{
-    font-size: 5.5rem;
-}
-h3{
-    font-size: 5rem
-}
-h4{
-    font-size: 4.5rem;
-}
-h5{
-    font-size: 4rem;
-}
-h6{
-    font-size: 3.5rem;
-}
-a{
-    text-decoration: none;
-}
 .main-bg{
     background-image: url('/Projeto html e css/src/img/fundo.png');
     background: cover;
@@ -55,7 +18,7 @@ a{
  
 }
 .main-content{
-    max-width: 1200px;
+    max-width: 120rem;
     margin: 0 auto;
     padding: var(--gap);
 
@@ -71,7 +34,7 @@ a{
     left: 0;
     right: 0;
     width: 100%;
-    border-bottom: 1px solid var(--light-gray-color);
+    border-bottom: 0.1rem solid var(--light-gray-color);
 }
 .menu-content{
     display: flex;
