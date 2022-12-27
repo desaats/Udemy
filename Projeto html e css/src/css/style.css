@@ -34,6 +34,7 @@
     left: 0;
     right: 0;
     width: 100%;
+    z-index: 1;
     border-bottom: 0.1rem solid var(--light-gray-color);
 }
 .menu-content{
@@ -45,7 +46,7 @@
 }
 .menu h1{
     font-size: 2.3rem;
-    background: var(--primary-color);
+ 
 }
 .menu h1 a{
     color:inherit;
@@ -77,4 +78,44 @@
 
 
 }
+.menu-spacing{
+    height: 65px;
+}
+.intro-content{
+    position: relative;
+    top: -8rem;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: var(--gap);
+    height: 100vh;
+}
+.intro-text-content, .intro-img img{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+.intro-text-content h2{
+    font-size: 6rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+.intro-img img{
+ max-width: 100%;
+ height: auto;
+ margin-top: 10rem;
+ border: 6px solid;
+ margin-left: 10rem;
+}
+.logo{
+    height: 8rem;
+    width: 8rem;
+    padding: 0;
+
+}
+
+
+
+
+
 
