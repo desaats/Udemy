@@ -40,7 +40,7 @@ h6{
     font-size: 3.5rem;
 }
 .main-bg{
-    background-image: url('/src/img/fundo.png');
+    background-image: url('/Projeto html e css/src/img/fundo.png');
     background: cover;
     background-position: center center;
     color: var(--white-color)
