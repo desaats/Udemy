@@ -14,7 +14,8 @@
  
 }
 .white-bg{
-    background: var(--white-color)
+    background: var(--white-color);
+    color: var(--primary-color);
  
 }
 .main-content{
@@ -100,12 +101,13 @@
     text-transform: uppercase;
     line-height: 1.2;
 }
-.intro-img img{
+.intro-img img  {
  max-width: 100%;
- height: auto;
- margin-top: 10rem;
+ height:auto;
+ margin-top: 15rem;
  border: 6px solid;
  margin-left: 10rem;
+ 
 }
 .logo{
     height: 8rem;
@@ -113,7 +115,41 @@
     padding: 0;
 
 }
+.B{
+    height: 10rem;
+    width: 50rem;
+    margin-right: auto;
+    margin-bottom: 15rem;
 
+
+
+}
+.top3-content{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: 100vh;
+    max-width: 60rem;
+    text-align: center;
+   
+}
+.grid-one-content{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: 100vh;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--gap);
+}
+.grid h3{
+    font-size: 3rem;
+}
+.grid h3::before{
+    font-size: 3rem;
+}
 
 
 
