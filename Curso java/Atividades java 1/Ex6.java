@@ -31,15 +31,6 @@ public class Ex6 {
 		System.out.printf("Area do QUADRADO é: %.3f%n", + aQ);
 		System.out.printf("Area do RETANGULO é: %.3f%n", + aR);
 
-
-
-
-
-		
-
-	    
-
-	    
-		sc.close();
+        sc.close();
 	} 
 }
