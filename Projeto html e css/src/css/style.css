@@ -7,7 +7,7 @@
 
 
 .main-bg{
-    background-image: url('/Projeto html e css/src/img/fundo.png');
+    background-image: url('/src/img/fundo.png');
     background: cover;
     background-position: center center;
     color: var(--white-color)
