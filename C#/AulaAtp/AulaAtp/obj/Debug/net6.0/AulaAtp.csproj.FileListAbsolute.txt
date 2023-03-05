@@ -1,0 +1,15 @@
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\bin\Debug\net6.0\AulaAtp.exe
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\bin\Debug\net6.0\AulaAtp.deps.json
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\bin\Debug\net6.0\AulaAtp.runtimeconfig.json
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\bin\Debug\net6.0\AulaAtp.dll
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\bin\Debug\net6.0\AulaAtp.pdb
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.csproj.AssemblyReference.cache
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.AssemblyInfo.cs
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.dll
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\refint\AulaAtp.dll
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.pdb
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\AulaAtp.genruntimeconfig.cache
+C:\Users\Cliente\Documents\C#\AulaAtp\AulaAtp\obj\Debug\net6.0\ref\AulaAtp.dll
