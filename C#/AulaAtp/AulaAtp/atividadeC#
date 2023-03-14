@@ -1,0 +1,17 @@
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+  int valor1, valor2,valor3, valor4, diferenca;
+     Console.WriteLine("Escreva quatro numeros :"); 
+      valor1 = int.Parse(Console.ReadLine());
+      valor2 = int.Parse(Console.ReadLine());
+      valor3 = int.Parse(Console.ReadLine());
+      valor4 = int.Parse(Console.ReadLine());
+      diferenca = ( valor1 * valor2) - (valor3 * valor4);
+     
+      Console.WriteLine("A diferença é : " + diferenca);
+    
+    
+  }
+}
