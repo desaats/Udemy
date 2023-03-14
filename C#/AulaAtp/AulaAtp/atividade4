@@ -1,0 +1,20 @@
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+  float peca1, numero1,valor1,peca2, numero2,valor2, valor;
+     Console.WriteLine("Escreva o numero da peça,o numero de peças e o valor da peça :"); 
+      peca1 = float.Parse(Console.ReadLine());
+      numero1 = float.Parse(Console.ReadLine());
+      valor1= float.Parse(Console.ReadLine());
+      peca2 = float.Parse(Console.ReadLine());
+      numero2  = float.Parse(Console.ReadLine());
+      valor2 = float.Parse(Console.ReadLine());
+      valor = (numero1 * valor1) + (numero2 * valor2);
+     
+     Console.WriteLine("VALOR A PAGAR : " + valor);
+    
+    
+    
+  }
+}
