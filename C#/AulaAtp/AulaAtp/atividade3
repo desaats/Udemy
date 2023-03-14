@@ -1,0 +1,19 @@
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+  float numeroF, numeroH,valorH, salario;
+     Console.WriteLine("Escreva o numero do funcionario, o numero de horas trabalhadas e o valor que recebe por hora :"); 
+      numeroF = float.Parse(Console.ReadLine());
+      numeroH = float.Parse(Console.ReadLine());
+      valorH= float.Parse(Console.ReadLine());
+      salario = numeroH * valorH;
+     
+     
+      Console.WriteLine("NUMERO : " + numeroF);
+      Console.WriteLine("SALARIO : " + salario);
+    
+    
+    
+  }
+}
